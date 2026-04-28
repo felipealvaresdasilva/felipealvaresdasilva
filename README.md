@@ -4,12 +4,15 @@
 
 Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolvimento web e criação de sites, confira mais informações abaixo ⬇️
 
-Caso tenha interesse em contratar meus serviços entre em contato via E-mail.
-*<a href="mailto:felipealvaresdasilva@gmail.com">felipealvaresdasilva@gmail.com</a>*
+Caso tenha interesse em contratar meus serviços entre em contato via E-mail ou Linkedin.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-alvares-da-silva-3a2386197/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:felipealvaresdasilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -17,7 +20,7 @@ Caso tenha interesse em contratar meus serviços entre em contato via E-mail.
 <p align="center" display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipealvaresdasilva&theme=omni&hide_border=true" height="150" alt="stats streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages"/>
 </p>
 
 ---
