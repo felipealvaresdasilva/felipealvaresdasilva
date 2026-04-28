@@ -2,8 +2,9 @@
 
 ### **`Analista e desenvolvedor de sistemas`**  
 
-Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolvimento web (mais voltado para o Front-End), SEO, manutenção de sistemas, virtualização, suporte entros. Caso tenha interesse em contratar meus serviços entre em contato via E-mail.
+Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolvimento web e criação de sites, confira mais informações abaixo ⬇️
 
+Caso tenha interesse em contratar meus serviços entre em contato via E-mail.
 *<a href="mailto:felipealvaresdasilva@gmail.com">felipealvaresdasilva@gmail.com</a>*
 
 <p align="left">
@@ -21,9 +22,9 @@ Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolviment
 
 ---
 
-## Tecnologias que domino:
+### 🤖 Tecnologias que domino
 
-### Front-End
+## Front-End
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -31,13 +32,35 @@ Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolviment
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-### Back-End & Infra
+## Back-End
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
 
+### ⚔️ Hard Skills
 
+- WordPress
+- Responsividade desktop e Mobile
+- UI/UX básico
+- Git e GitHub
+- Métricas de SEO
+- Linux Debian e Ubuntu
+- Proxmox e Proxmox Backup Server (Ferramentas de virtualização)
 
+### 💡 Soft Skills
+
+- 🚀 Aprendizado rápido e adaptação a novas tecnologias  
+- 🗣️ Comunicação clara e objetiva  
+- 🤝 Experiência com atendimento ao cliente e suporte
+- 📚 Facilidade em ensinar e compartilhar conhecimentos
+- 📋 Gestão de equipe e liderança
+- 🧠 Resolução de problemas
+
+### 🌎 Idiomas
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Intermediário (leitura técnica e documentação)  
