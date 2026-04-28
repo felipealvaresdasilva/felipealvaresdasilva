@@ -10,8 +10,8 @@ Caso tenha interesse em contratar meus serviços entre em contato via E-mail ou 
   <a href="https://www.linkedin.com/in/felipe-alvares-da-silva-3a2386197/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:felipealvaresdasilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:felipealvaresdasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
