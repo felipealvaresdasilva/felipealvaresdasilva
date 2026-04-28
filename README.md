@@ -1,4 +1,4 @@
-##  Olá 👋! Meu nome é Felipe Alvares, é um prazer recebe-lo em meu perfil😁
+##  Olá 👋! Meu nome é Felipe Alvares, é um prazer recebê-lo(a) em meu perfil😁
 
 ### **`Analista e desenvolvedor de sistemas`**  
 
