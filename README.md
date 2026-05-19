@@ -17,10 +17,10 @@ Caso tenha interesse em contratar meus serviços entre em contato via E-mail ou 
 
 ---
 
-<p align="center" display="flex">
-<img src="https://github-readme-stats.vercel.app/api?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipealvaresdasilva&theme=omni&hide_border=true" height="150" alt="stats streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipealvaresdasilva&theme=omni&hide_border=true" height="150" alt="stats streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvaresdasilva&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages"/>
 </p>
 
 ---
