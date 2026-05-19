@@ -19,12 +19,19 @@ Caso tenha interesse em contratar meus serviços entre em contato via E-mail ou 
 
 <p align="center">
   <img
-    height="150"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipealvaresdasilva&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
     src="https://streak-stats.demolab.com?user=felipealvaresdasilva&theme=tokyonight&hide_border=true"
   />
 
   <img
-    height="150"
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipealvaresdasilva&theme=tokyonight"
   />
 </p>
