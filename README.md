@@ -2,7 +2,7 @@
 
 ### **`Analista e desenvolvedor de sistemas`**  
 
-Atualmente atuo como Web Designer, possuo conhecimento sólido em desenvolvimento web e criação de sites, confira mais informações abaixo ⬇️
+Atualmente atuo como Desenvolvedor Front-end, possuo conhecimento sólido em desenvolvimento web e criação de sites, confira mais informações abaixo ⬇️
 
 Caso tenha interesse em contratar meus serviços entre em contato via E-mail ou Linkedin.
 
